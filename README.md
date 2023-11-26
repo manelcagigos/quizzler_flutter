@@ -1,5 +1,3 @@
-# quizzler_flutter
-
 # Quizzler ❓[^1]
 
 ## What you will create
